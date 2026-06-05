@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#033957"/>
+      <stop offset="0.55" stop-color="#002134"/>
+      <stop offset="1" stop-color="#02141e"/>
+    </linearGradient>
+    <linearGradient id="td" x1="20" y1="14" x2="44" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#aca8ff"/>
+      <stop offset="1" stop-color="#837fd8"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 3 56 12V31C56 46 45.5 56.5 32 61 18.5 56.5 8 46 8 31V12L32 3Z" fill="url(#tg)"/>
+  <path d="M32 3 56 12V31C56 46 45.5 56.5 32 61 18.5 56.5 8 46 8 31V12L32 3Z" stroke="#22516c" stroke-width="1"/>
+  <!-- Najdi pointed-arch "door" = Alinma motif, protected inside the shield -->
+  <path d="M32 19c-7 0-11 4.6-11 11.5V47h6V31c0-3.3 2.1-5.6 5-5.6s5 2.3 5 5.6v16h6V30.5C43 23.6 39 19 32 19Z" fill="url(#td)"/>
+  <circle cx="32" cy="14.5" r="2.6" fill="#e2ad8b"/>
+</svg>
